@@ -1,4 +1,3 @@
-```md
 # Alerta de Stock
 
 ## Overview
@@ -43,12 +42,11 @@
 
 ## Screenshots
 
-| ![ALERTS](images/1.PNG) |
+| ![ALERTS](images/1.png) |
 |:-----------------------:|
 | **ALERTS**             |
 
-| ![ADD/CONFIG ALERTS](images/2.PNG) |
+| ![ADD/CONFIG ALERTS](images/2.png) |
 |:----------------------------------:|
 | **ADD/CONFIG ALERTS**             |
 ```
-````md
